@@ -1,0 +1,2 @@
+print("Helló Világ!") #megjegyzés
+
